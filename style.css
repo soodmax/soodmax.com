@@ -162,6 +162,9 @@ h2 {
   margin: 10px;
 }
 
+h2 {
+  color: var(--color-text);
+}
 table {
   margin: 10px;
   border-collapse: collapse;
@@ -202,4 +205,9 @@ td {
 
 .center {
   text-align: center;
+}
+
+.flex {
+  display: flex;
+  gap: 20px;
 }
